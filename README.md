@@ -1,2 +1,2 @@
-# Anywhere_Door
-See-through Portals which teleport the player to different biomes
+# Teleportation_chambers
+for now, its a chambers with multiple teleporters
